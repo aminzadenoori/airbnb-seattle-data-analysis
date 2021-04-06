@@ -3,7 +3,7 @@
 ### Table of Contents
 
 1. [Installation](#installation)
-2. [Project Motivation](#motivation)
+2. [Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
@@ -18,9 +18,9 @@ This project uses Python 3, besides Jupyter Notebook. The list of libraries to r
 * XGBoost
 
 
-## Project Motivation<a name="motivation"></a>
+## Motivation<a name="motivation"></a>
 
-For this project, I was interested in exploring the AirBnB dataset from Seattle to better understand the following questions:
+In this project, I want to investigate the AirBnB dataset from Seattle to answer the following questions:
 1. What distinguishes hosts that have Superhost status? Do all Superhosts properly qualify the criteria that AirBnB has set for them?
 2. What time of the year are AirBnBs most popular in Seattle? Are specific holiday seasons more popular?
 3. What are the most important characteristics of a listing, and how do they influence price?
