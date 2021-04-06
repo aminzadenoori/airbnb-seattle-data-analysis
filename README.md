@@ -10,14 +10,13 @@
 
 ## Installation <a name="installation"></a>
 
-This project uses Python 3, along with Jupyter Notebook. The following libraries are necessary for running the notebook:
+This project uses Python 3, besides Jupyter Notebook. The list of libraries to run this project are:
 * Pandas
 * Numpy
 * MatplotLib
 * Seaborn
-* Scikit-Learn
+* XGBoost
 
-Packages used by this project can also be installed as a Conda Environment using the provided Requirements.txt file.
 
 ## Project Motivation<a name="motivation"></a>
 
