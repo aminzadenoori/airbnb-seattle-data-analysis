@@ -34,20 +34,14 @@ In this project, I want to investigate the AirBnB dataset from Seattle to answer
 
 ## File Descriptions <a name="files"></a>
 
-The main code for this project is included in the notebook `Data Exploration with AirBnB.ipynb`. The notebook walks through all the steps of the CRISP-DM Process for analyzing the dataset to answer the above three questions. The code and results are also posted on Medium as a [blog post](https://medium.com/@ravishchawla/how-can-you-get-the-most-out-of-your-airbnb-listing-7df1fe4b0309).
+There are three files in `Files` directory of this project that investigates different questions that we want to answer.
 
-Data for the project is not included because of large file sizes. To properly run the notebook, it must be placed in `data` -> `Seattle`. The directory should have the following files:
-* `Calendar.csv`
-* `Listings.csv`
-* `Reviews.csv`
+Data for this project is included in `Data` directory.
 
-Along with the AirBnB data, the Federal Holidays dataset (from [kaggle](https://www.kaggle.com/gsnehaa21/federal-holidays-usa-19662020)) will also have to be included in the `data` directory. This file is `usaholidays.csv`.
-
-Charts used for the Medium blog post and the Notebook are included in the `charts` directory.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@ravishchawla/how-can-you-get-the-most-out-of-your-airbnb-listing-7df1fe4b0309).
+The report of this study can be found [here](https://medium.com/@ravishchawla/how-can-you-get-the-most-out-of-your-airbnb-listing-7df1fe4b0309).
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
