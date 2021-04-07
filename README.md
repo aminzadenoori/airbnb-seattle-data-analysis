@@ -7,6 +7,10 @@
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
+<p align="center">
+  <img src="1_QBg4uRx67x2mEXt0ROjGYw.png" width="350" title="hover text">
+ 
+</p>
 
 ## Installation <a name="installation"></a>
 
@@ -26,7 +30,7 @@ In this project, I want to investigate the AirBnB dataset from Seattle to answer
 
 2.How different features of a listing can be related to the review scores left by customers?
 
-3.How much is the effect of different features to predict the price of a listing based on the data modeling results?
+3.How different features can be realted to predict the price of a listing based on the data modeling results?
 
 ## File Descriptions <a name="files"></a>
 
