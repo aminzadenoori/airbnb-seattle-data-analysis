@@ -41,7 +41,7 @@ Data for this project is included in `Data` directory.
 
 ## Results<a name="results"></a>
 
-The report of this study can be found [here](https://medium.com/@ravishchawla/how-can-you-get-the-most-out-of-your-airbnb-listing-7df1fe4b0309).
+The report of this study can be found [here](https://amin-zadenoori.medium.com/studying-the-airbnb-seattle-data-by-crisp-dm-approach-e8fc42c34c46).
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
