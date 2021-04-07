@@ -46,4 +46,4 @@ The report of this study can be found [here](https://amin-zadenoori.medium.com/s
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Credit to AirBnB for providing the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle), and [here](https://www.kaggle.com/gsnehaa21/federal-holidays-usa-19662020/home). This code is free to use.
+Credit to AirBnB for providing the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle). This code is free to use.
