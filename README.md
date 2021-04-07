@@ -8,7 +8,7 @@
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 <p align="center">
-  <img src="1_QBg4uRx67x2mEXt0ROjGYw.png" width="350" title="hover text">
+  <img src="https://raw.githubusercontent.com/aminzadenoori/airbnb-seattle-data-analysis/main/1_QBg4uRx67x2mEXt0ROjGYw.png.png" width="350" title="hover text">
  
 </p>
 
